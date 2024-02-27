@@ -1,7 +1,8 @@
 # springBoot
 device management project 
+# 
 this project containes the following REST API's:
-  device 
+ # device 
     - create
     - get all
     - get by UUID
@@ -11,14 +12,14 @@ this project containes the following REST API's:
     - get by OS 
     - update status
     
-manufacturer:
+# manufacturer:
     - create
     - update
     - get all
     - get by id
 
-device_status_tracker:
+# device_status_tracker:
     - get all
     - get all by device_id
-
+# PS:
 No Unit testing, to be added in the future.
