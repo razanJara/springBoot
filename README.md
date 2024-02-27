@@ -1,6 +1,4 @@
-# springBoot
-device management project 
-# 
+# device management project 
 this project containes the following REST API's:
  # device 
     - create
